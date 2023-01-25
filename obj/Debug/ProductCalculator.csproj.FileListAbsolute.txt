@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\IGME 201\ProductCalculator\bin\Debug\ProductCalculator.exe.config
+C:\Users\Wiz\Desktop\IGME 201\ProductCalculator\bin\Debug\ProductCalculator.exe
+C:\Users\Wiz\Desktop\IGME 201\ProductCalculator\bin\Debug\ProductCalculator.pdb
+C:\Users\Wiz\Desktop\IGME 201\ProductCalculator\obj\Debug\ProductCalculator.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\ProductCalculator\obj\Debug\ProductCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\ProductCalculator\obj\Debug\ProductCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\ProductCalculator\obj\Debug\ProductCalculator.exe
+C:\Users\Wiz\Desktop\IGME 201\ProductCalculator\obj\Debug\ProductCalculator.pdb
